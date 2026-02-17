@@ -1,13 +1,18 @@
 flask
 flask-cors
 gunicorn
-google-genai
 python-dotenv
-requests
+
 langchain==0.1.16
-google-generativeai
-numpy
-pandas
+langchain-community
 langchain-groq
 langchain-google-genai
+langchain-ollama
+langchain-openai
 
+google-generativeai
+google-genai
+
+requests
+pandas
+numpy
