@@ -8,3 +8,4 @@ langchain==0.1.16
 google-generativeai
 numpy
 pandas
+langchain-groq
