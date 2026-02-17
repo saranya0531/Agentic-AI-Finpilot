@@ -9,3 +9,5 @@ google-generativeai
 numpy
 pandas
 langchain-groq
+langchain-google-genai
+
